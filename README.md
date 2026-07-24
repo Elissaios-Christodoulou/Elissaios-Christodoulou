@@ -9,13 +9,23 @@
 - Artificial Intelligence
 - Machine Learning
 
-## Technologies
+## Technologies & Tools
+
 - JavaScript
 - React
+- TypeScript
 - Python
 - Java
 - SQL
-- Git
+- Git & GitHub
 
 ## Current Project
-🚀 AI Study Assistant (React + TypeScript + Vite)
+
+🚀 AI Study Assistant  
+A web application built with React, TypeScript and Vite to explore AI-powered learning tools.
+
+## Currently Learning
+
+- Advanced React concepts
+- Front-End Development best practices
+- Artificial Intelligence & Machine Learning fundamentals
